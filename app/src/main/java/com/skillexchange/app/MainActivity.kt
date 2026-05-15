@@ -1,5 +1,5 @@
-package com.skillexchange.app;
+package com.skillexchange.app
 
-import com.getcapacitor.BridgeActivity;
+import com.getcapacitor.BridgeActivity
 
-public class MainActivity extends BridgeActivity {}
+class MainActivity : BridgeActivity()
