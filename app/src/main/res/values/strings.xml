@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Skill-Exchange</string>
+    <string name="title_activity_main">Skill-Exchange</string>
+    <string name="package_name">com.skillexchange.app</string>
+    <string name="custom_url_scheme">com.skillexchange.app</string>
+    <string name="server_client_id">846776125361-tis5rj67k65rbri1v3fd9rfqo8veokha.apps.googleusercontent.com</string>
+</resources>

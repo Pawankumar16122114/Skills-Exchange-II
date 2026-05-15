@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846776125361",
+    "project_id": "gen-lang-client-0878746601",
+    "storage_bucket": "gen-lang-client-0878746601.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846776125361:android:7782b9f75048574fd95f90",
+        "android_client_info": {
+          "package_name": "com.skillexchange.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846776125361-tis5rj67k65rbri1v3fd9rfqo8veokha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdyUGe90PZ6rmSqswbcIrkiFLTeb8Eq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846776125361-tis5rj67k65rbri1v3fd9rfqo8veokha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
